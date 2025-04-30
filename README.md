@@ -17,4 +17,4 @@
 
 扫描WeChat二维码加我为好友~
 
-![mmqrcode1745985467915](https://github.com/user-attachments/assets/f1f8214f-9e15-4023-a21c-d97751b6d5ad)
+<img src="https://github.com/user-attachments/assets/f1f8214f-9e15-4023-a21c-d97751b6d5ad" width="300">
