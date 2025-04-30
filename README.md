@@ -1,16 +1,20 @@
-## Hi there 👋
+### - 🔭 技术栈
 
-<!--
-**duxr1015/duxr1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* c/c++ 自动驾驶软件开发
+* CUDA/TensorRT编程开发
 
-Here are some ideas to get you started:
+### - ⭐️ &nbsp;Github Star
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</>
+
+
+### - 📫 项目 Projects...
+
+1. [C++学习笔记](https://github.com/FearlessPeople/GOF23) 查看学习笔记
+
+
+### - 🤝🏻 联系我 Connect with Me
+
+扫描WeChat二维码加我为好友~
+
+![mmqrcode1745985467915](https://github.com/user-attachments/assets/f1f8214f-9e15-4023-a21c-d97751b6d5ad)
