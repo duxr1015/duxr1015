@@ -10,7 +10,7 @@
 
 ### - 📫 项目 Projects...
 
-1. [C++学习笔记](https://github.com/FearlessPeople/GOF23) 查看学习笔记
+1. 
 
 
 ### - 🤝🏻 联系我 Connect with Me
